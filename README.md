@@ -1,21 +1,36 @@
 <div align="center">
-  <img height="146" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"  />
+  <table>
+    <tr>
+      <!-- LEFT SIDE : DETAILS -->
+      <td width="50%" valign="top" style="padding:20px; border:1px solid #30363d; border-radius:12px;">
+
+### 👋 Hi, I'm KD  
+
+- 🌱 I’m currently learning **AI + RPA**
+- 🎓 Undergraduate at **SLIIT**
+- 💬 Ask me about **RPA**
+- 📫 Reach me at **kaveean.dinethma@gmail.com**
+- ⚡ Fun fact: Call me **KD**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&width=435&lines=AI+%7C+RPA+%7C+Automation;Always+Learning+New+Things" />
+
+</td>
+
+<!-- RIGHT SIDE : IMAGE / ANIMATION -->
+<td width="50%" align="center" style="padding:20px; border:1px solid #30363d; border-radius:12px;">
+
+<img 
+  src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"
+  alt="Developer Workflow"
+  width="100%"
+/>
+
+</td>
+    </tr>
+  </table>
 </div>
-<h1 align="center">Hi 👋, I'm Pavithra Kaushalya</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<div align="center">
-  
-  <img height="146" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"  />
-</div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavithrakaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="pavithrakaushalya" /> </p>
-
-- 🌱 I’m currently learning **Undergraduate at UOM**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **pavithrakaushalya610@gmail.com**
-
-- ⚡ Fun fact **Call me as Pavi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
