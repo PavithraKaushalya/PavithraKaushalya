@@ -1,20 +1,40 @@
 <div align="center">
+  <img height="150" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"  />
+</div>
+
+###
+
+<h1 align="center">Hi 👋, I'm Pavithra Kaushalya</h1>
+
+###
+
+<p align="center">Passionate IT Student | Exploring the Boundless World of Technology</p>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pavithrakaushalya.pavithrakaushalya&"  />
+</div>
+
+
+
+<div align="center">
   <table>
     <tr>
-      <!-- LEFT SIDE : DETAILS -->
+     
       <td width="50%" valign="top" style="padding:20px; border:1px solid #30363d; border-radius:12px;">
 
-### 👋 Hi, I'm KD  
+### 👋 Hi, I'm Pavithra
 
-- 🌱 I’m currently learning **AI + RPA**
-- 🎓 Undergraduate at **SLIIT**
-- 💬 Ask me about **RPA**
-- 📫 Reach me at **kaveean.dinethma@gmail.com**
-- ⚡ Fun fact: Call me **KD**
+- 🌱 I’m currently learning **Laravel**
+- 🎓 Undergraduate at **University of Moratuwa**
+- 💬 Ask me about **React**
+- 📫 Reach me at **pavithrakaushalya610@gmail.com**
+- ⚡ Fun fact: Call me **Pavi**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&width=435&lines=AI+%7C+RPA+%7C+Automation;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&width=435&lines=Laravel+%7C+;Always+Learning+New+Things" />
 
 </td>
 
