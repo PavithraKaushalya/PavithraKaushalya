@@ -1,7 +1,13 @@
+<div align="center">
+  <img height="146" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"  />
+</div>
 <h1 align="center">Hi 👋, I'm Pavithra Kaushalya</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pavithrakaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="pavithrakaushalya" /> </p>
+<div align="center">
+  
+  <img height="146" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"  />
+</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavithrakaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="pavithrakaushalya" /> </p>
 
 - 🌱 I’m currently learning **Undergraduate at UOM**
 
@@ -10,9 +16,7 @@
 - 📫 How to reach me **pavithrakaushalya610@gmail.com**
 
 - ⚡ Fun fact **Call me as Pavi**
-<div align="right">
-  <img height="146" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619250680290/l6Y_qPlOx.gif"  />
-</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pavithra premarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavithra premarathne" height="30" width="40" /></a>
