@@ -10,7 +10,9 @@
 - 📫 How to reach me **pavithrakaushalya610@gmail.com**
 
 - ⚡ Fun fact **Call me as Pavi**
-
+<div align="right">
+  <img height="146" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619250680290/l6Y_qPlOx.gif"  />
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pavithra premarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavithra premarathne" height="30" width="40" /></a>
